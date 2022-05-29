@@ -1,0 +1,59 @@
+Which of the following is the first operating system developed using C programming language?
+a)Windows
+b)DOS
+c)Mac
+d)UNIX
+
+The keyword used to transfer control from a function back to the calling function is
+a)switch
+b)goback
+c)return
+d)goto
+
+What is (void*)0?
+a)Representation of NULL pointer
+b)Representation of void pointer
+c)Compile time error
+d)Run time error
+
+In which header file is the NULL macro defined?
+a)stdio.h
+b)stddef.h
+c)math.h
+d)stdio.h and stddef.h
+
+By default a real number is treated as
+a)float
+b)double
+c)long double
+d)int
+
+If the two strings are identical,then strcmp() function returns
+a)-1
+b)1
+c)0
+d)null
+
+Which bitwise operator is suitable for turning off a particular bit in a number?
+a)&& operator
+b)& operator
+c)|| operator
+d)! operator
+
+In C,if you pass an array as an argument to a function,what actually gets passed?
+a)Value of elements in array
+b)First element of the array
+c)Base address of the array
+d)Address of the first element of array 
+
+What does the following declaration mean? int (*ptr)[10];
+a)ptr is array of pointers to 10 integers
+b)ptr is a pointer to an array of 10 integers
+c)ptr is an array of 10 integers
+d)ptr is an pointer to array
+
+What is the similarity between a structure,union and enumeration?
+a)All of them let you define new values
+b)All of them let you define new structures
+c)All of them let you define new pointers
+d)All of them let you define new data types
